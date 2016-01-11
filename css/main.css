@@ -502,11 +502,11 @@ html.no-touch nav ul li:hover {
     z-index: 100;
 }
 
-#the-meeting .mukund, #the-meeting .chaithanya {
+#the-meeting .sushil, #the-meeting .pooja {
     position: relative;
 }
 
-#the-meeting .mukund {
+#the-meeting .sushil {
     background: url('../img/meeting.png') 0px -2px no-repeat;
     width: 156px;
     height: 139px;
@@ -514,7 +514,7 @@ html.no-touch nav ul li:hover {
     cursor: pointer;
 }
 
-#the-meeting .chaithanya {
+#the-meeting .pooja {
     background: url('../img/meeting.png') -495px 0px no-repeat;
     width: 150px;
     height: 126px;
@@ -537,12 +537,12 @@ html.no-touch nav ul li:hover {
 
 #the-meeting .text p { font-family: 'Bad Script', cursive;color: #696969;font-size: 22px; }
 
-#the-meeting .mukund .text {
+#the-meeting .sushil .text {
     left: -241px;
     top: 140px;
 }
 
-.chaithanya .bu-bub {
+.pooja .bu-bub {
     background: url('../img/meeting.png') -468px -48px no-repeat;
     width: 29px;
     height: 22px;
@@ -562,7 +562,7 @@ html.no-touch nav ul li:hover {
     -o-transform-origin: 50% 50%;
 }
 
-.mukund .bu-bub {
+.sushil .bu-bub {
     background: url('../img/meeting.png') -468px -48px no-repeat;
     width: 29px;
     height: 22px;
@@ -947,14 +947,14 @@ html.no-touch nav ul li:hover {
     background-size: 647px 141px;
   }
 
-  #the-meeting .mukund a {
+  #the-meeting .sushil a {
     background: url('../img/meeting@2.png') -1px -5px no-repeat;
     width: 379px;
     height: 273px;
     float: left;
 }
 
-#the-meeting .chaithanya a {
+#the-meeting .pooja a {
     background: url('../img/meeting@2.png') -935px -2px no-repeat;
     width: 354px;
     height: 248px;
