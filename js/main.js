@@ -180,7 +180,7 @@ $(document).ready(function () {
 		{top: "4999", offset: "-430px", css_class: "cloud-1", delay: 1.4},
 		{top: "5445", offset: "330px", css_class: "cloud-2", delay: .8},
 		{top: "5629", offset: "-430px", css_class: "cloud-4", delay: .5},
-		{top: "5850", offset: "-570px", css_class: "cloud-2 md-trigger", delay: .1, link: "Venue/map", attr: true}
+		{top: "5850", offset: "-570px", css_class: "cloud-2 md-trigger", delay: .1, link: "Map", attr: true}
     ];
 
     var zoneControllers = {
